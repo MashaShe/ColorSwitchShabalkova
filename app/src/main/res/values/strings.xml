@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ColorSwitchShabalkova</string>
+    <string name="hello_text">Привет, это мой текст на русском!</string>
+    <string name="lang_choose">Выберите язык:</string>
+    <string name="col_choose">Выберите цвет:</string>
+    <string name="ok_btn">OK</string>
+    <string-array name="lang_array">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string-array name="col_array">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+
+</resources>
